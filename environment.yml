@@ -1,0 +1,4 @@
+name: AI_Infl  
+dependencies:  
+  - python=3.10  
+  - openai
